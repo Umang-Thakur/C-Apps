@@ -1,6 +1,6 @@
 # C++ Apps
 
-The projects contains different apps implementing different design Patterns in Cpp kanguage.
+The repository contains different sample apps implementing different Design Patterns in Cpp language.
 
 ## 🚀 About Me
 I'm an undergraduate and passionate about software development. I love working around technologies and learning new concepts. I have experience in using Flutter and Django. As for my hobbies, reading blogs and books on programming would be one. Need a development member count me in.
