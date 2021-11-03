@@ -14,7 +14,7 @@ I read blogs and books regarding programming and development design.
 
 # Hi, I'm Umang! 👋
 
-I'm an undergraduate and passionate about software development. I love working around technologies and learning new concepts regrading them. I have experience in using Flutter and Django. As for my hobbies, reading blogs and books on programming would be one.
+I'm an undergraduate and passionate about software development. I love working around technologies and learning new concepts. I have experience in using Flutter and Django. As for my hobbies, reading blogs and books on programming would be one. Need a development member count me in.
 
 ## 🛠 Skills
 Python, Cpp, MySQl, Angular, Django, Flutter
