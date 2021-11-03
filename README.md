@@ -7,9 +7,11 @@ I'm an undergraduate and passionate about software development. I love working a
 
 ## Appendix
 
-Duck Sim - Strategy Pattern
-WeatherStation - Observer Pattern
-PizzaFactory - Factory Method Pattern
+* Duck Sim - Strategy Pattern
+* WeatherStation - Observer Pattern
+* PizzaFactory - Factory Method Pattern
+    * SimplePizzaFactory - Simple Factory Pattern
+    * PizzaFranchise - Factory Method Pattern 
 
 ## 🛠 Skills
 Python, Cpp, MySQl, Angular, Django, Flutter
