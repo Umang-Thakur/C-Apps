@@ -9,8 +9,8 @@ I read blogs and books regarding programming and development design.
 
 ## Appendix
 
-Duck Sim - Strategy Pattern
-WeatherStation - Observer Pattern
+* Duck Sim - Strategy Pattern
+* WeatherStation - Observer Pattern
 
 # Hi, I'm Umang! 👋
 
