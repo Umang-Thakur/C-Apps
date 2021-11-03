@@ -7,9 +7,9 @@ I'm an undergraduate and passionate about software development. I love working a
 
 ## Appendix
 
-* Duck Sim - Strategy Pattern
-* WeatherStation - Observer Pattern
-
+Duck Sim - Strategy Pattern
+WeatherStation - Observer Pattern
+PizzaFactory - Factory Method Pattern
 
 ## 🛠 Skills
 Python, Cpp, MySQl, Angular, Django, Flutter
@@ -25,6 +25,10 @@ Using OOP to implement different Design Techniques for real world objects.
 * Observer Pattern - 
     defines a one-to-many dependency between objects so that when
     one object changes state, all of its dependents are notified and updated automatically
+
+* Factory Method Pattern - 
+    defines an interface for creating an object, but lets
+    subclasses decide which class to instantiate
 
 ## 🔗 Links
 [![Hackkerank](https://img.shields.io/badge/Hackerrank-00EA64?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/umangramthakur)
