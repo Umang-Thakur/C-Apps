@@ -10,6 +10,7 @@ I like read blogs and books regarding programming and development design.
 ## Appendix
 
 Duck Sim - Strategy Pattern
+WeatherStation - Observer Pattern
 
 # Hi, I'm Umang! 👋
 
@@ -25,6 +26,10 @@ Using OOP to implement different Design Techniques for real world objects.
 * Strategy Pattern - 
     defines a family of algorithms,
     encapsulates each one, and makes them interchangeable
+
+* Observer Pattern - 
+    defines a one-to-many dependency between objects so that when
+    one object changes state, all of its dependents are notified and updated automatically
 
 ## 🔗 Links
 [![Hackkerank](https://img.shields.io/badge/Hackerrank-00EA64?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/umangramthakur)
