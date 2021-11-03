@@ -3,18 +3,13 @@
 The projects contains different apps implementing different design Patterns in Cpp kanguage.
 
 ## 🚀 About Me
-I'm a undergraduate and passionate about software development.
-
-I read blogs and books regarding programming and development design.
+I'm an undergraduate and passionate about software development. I love working around technologies and learning new concepts. I have experience in using Flutter and Django. As for my hobbies, reading blogs and books on programming would be one. Need a development member count me in.
 
 ## Appendix
 
 * Duck Sim - Strategy Pattern
 * WeatherStation - Observer Pattern
 
-# Hi, I'm Umang! 👋
-
-I'm an undergraduate and passionate about software development. I love working around technologies and learning new concepts. I have experience in using Flutter and Django. As for my hobbies, reading blogs and books on programming would be one. Need a development member count me in.
 
 ## 🛠 Skills
 Python, Cpp, MySQl, Angular, Django, Flutter
