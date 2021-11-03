@@ -5,7 +5,7 @@ The projects contains different apps implementing different design Patterns in C
 ## 🚀 About Me
 I'm a undergraduate and passionate about software development.
 
-I like read blogs and books regarding programming and development design.
+I read blogs and books regarding programming and development design.
 
 ## Appendix
 
