@@ -11,7 +11,8 @@ I'm a college student and passionate about software development. I love working 
 * WeatherStation - Observer Pattern
 * PizzaFactory - Factory Method Pattern
     * SimplePizzaFactory - Simple Factory Pattern
-    * PizzaFranchise - Factory Method Pattern 
+    * PizzaFranchise - Factory Method Pattern
+    * PizzaIngredientFactory - Abstract Factory Pattern 
 
 ## 🛠 Skills
 Python, Cpp, MySQl, Angular, Django, Flutter
