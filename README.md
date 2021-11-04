@@ -7,8 +7,9 @@ I'm a college student and passionate about software development. I love working 
 
 ## Appendix
 
-* Duck Sim - Strategy Pattern
+* DuckSim - Strategy Pattern
 * WeatherStation - Observer Pattern
+* StarbucksCoffe - Decorator Pattern
 * PizzaFactory - Factory Method Pattern
     * SimplePizzaFactory - Simple Factory Pattern
     * PizzaFranchise - Factory Method Pattern
@@ -28,6 +29,9 @@ Using OOP to implement different Design Techniques for real world objects.
 * Observer Pattern - 
     defines a one-to-many dependency between objects so that when
     one object changes state, all of its dependents are notified and updated automatically
+
+* Decorator Pattern -
+    attaches additional responsibilities to an object dynamically
 
 * Factory Method Pattern - 
     defines an interface for creating an object, but lets
