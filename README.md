@@ -5,7 +5,7 @@ The repository contains sample apps implementing different Design Patterns in Cp
 ## 🚀 About Me
 I'm a college student and passionate about software development. I love working around technologies and learning new concepts. I have experience in using Flutter and Django. As for my hobbies, reading blogs and books on programming would be one. Need a development member count me in.
 
-## Appendix
+## 📋 Appendix
 
 * DuckSim - Strategy Pattern
 * WeatherStation - Observer Pattern
@@ -20,7 +20,7 @@ I'm a college student and passionate about software development. I love working 
 ## 🛠 Skills
 Python, Cpp, MySQl, Angular, Django, Flutter
 
-## Lessons Learned
+## 💡 Lessons Learned
 
 Using OOP to implement different Design Techniques for real world objects.
 
