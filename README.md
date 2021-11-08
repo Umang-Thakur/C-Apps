@@ -10,10 +10,12 @@ I'm a college student and passionate about software development. I love working 
 * DuckSim - Strategy Pattern
 * WeatherStation - Observer Pattern
 * StarbucksCoffe - Decorator Pattern
-* PizzaFactory - Factory Method Pattern
+* PizzaFactory
     * SimplePizzaFactory - Simple Factory Pattern
     * PizzaFranchise - Factory Method Pattern
     * PizzaIngredientFactory - Abstract Factory Pattern 
+* Remote Control
+    * Simple Remote , Undo - Command Pattern
 
 ## 🛠 Skills
 Python, Cpp, MySQl, Angular, Django, Flutter
@@ -36,6 +38,10 @@ Using OOP to implement different Design Techniques for real world objects.
 * Factory Method Pattern - 
     defines an interface for creating an object, but lets
     subclasses decide which class to instantiate
+
+* Command Pattern -
+    decouples an object making a request from the one that
+    knows how to perform it
 
 ## 🔗 Links
 [![Hackkerank](https://img.shields.io/badge/Hackerrank-00EA64?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/umangramthakur)
